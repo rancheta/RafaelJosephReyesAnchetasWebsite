@@ -128,14 +128,14 @@ export default function Home() {
             </Link>
             <br />
             <br />
-            <Link target="_blank" href="https://ar.old.rafaelancheta.com">
+            <Link target="_blank" href="http://ar.old.rafaelancheta.com">
               Created @ Augmented Reality Conference Display
             </Link>
             <br />
             <br />
             <Link
               target="_blank"
-              href="https://meal-planner.old.rafaelancheta.com"
+              href="http://meal-planner.old.rafaelancheta.com"
             >
               Created @ Fitness Billing and Planning Platform
             </Link>
