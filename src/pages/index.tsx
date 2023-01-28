@@ -123,9 +123,7 @@ export default function Home() {
               further.
             </p>
             <br />
-            <Link target="_blank" href="https://www.brackot.com">
-              Consulting &amp; Development @ Brackot
-            </Link>
+            Consulting &amp; Development @ Brackot
             <br />
             <br />
             <Link target="_blank" href="http://ar.old.rafaelancheta.com">
