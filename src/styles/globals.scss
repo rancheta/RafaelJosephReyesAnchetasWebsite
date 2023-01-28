@@ -1,0 +1,19 @@
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 300px;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 0px;
+}
+
+a {
+  color: rgb(148, 159, 0);
+  transition: all 0.5s;
+  &:hover {
+    color: rgb(127, 136, 0);
+  }
+}
