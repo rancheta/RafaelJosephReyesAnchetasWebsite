@@ -17,7 +17,7 @@ export default function Home() {
                 height: "140px",
                 width: "140px",
                 overflow: "hidden",
-                backgroundImage: "url('/profile-pic.jpg')",
+                backgroundImage: "url('/profile_picture.jpg')",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
@@ -38,11 +38,10 @@ export default function Home() {
         <div className="row">
           <div className="col-lg-5 content">
             <p>
-              I&apos;m Rafael, a California based software consultant with 7+
-              years of experience. I&apos;ve started companies, worked in teams
-              and built multiple companies&apos; products from idea to
-              production enviorments. I enjoy running, climbing, studying and
-              generally being outdoors.
+              I&apos;m Rafael, a software consultant with 8+ years of
+              experience. I&apos;ve started companies and built multiple
+              companies&apos; products from idea to production enviorments. I
+              enjoy running, climbing, studying and generally being outdoors.
             </p>
             <br />
             <p>Email me at: me@rafaelancheta.com</p>
@@ -79,7 +78,8 @@ export default function Home() {
             <hr />
 
             <p>
-              Creation and operation of 123 Dyno, an autoscaling solution for
+              Creation and operation of 123 Dyno, the fastest metric based
+              autoscaling of any cloud proider. An autoscaling solution for
               Heroku that provides a 12x speed upgrade and extensions to
               autoscale via CPU, memory, queue, and improved response times.
               Designed to intelligently handle load, cut users bills, and extend
@@ -97,7 +97,6 @@ export default function Home() {
           <div className="col-lg-4">
             <h4> Hurry, Inc 2022</h4>
             <hr />
-
             <p>
               Consulted on the creation of Hurry&apo;s minimum viable product
               and built out both the initial delivery portal via React.js and
@@ -195,14 +194,8 @@ export default function Home() {
               Built, managed, and formed relationships for an aggregator of
               ridesharing/carpooling providers across the public and private
               sector to boost the visibility of carpooling data across
-              industries. toEverywhere&apos;s goal is the same as the former
-              one, to create a system that could show you all the places you
-              could go just by seeing cars passing by. Uses much of the same
-              infrustructure as Rdvouz, however includes a scraping and feed
-              factor thats used to pull data from the web, strong data parsing
-              and DOM manipulation aspect to it. Moving to a more distributed
-              and testable enviorment using Docker, Jasmine, and Karma test
-              runner. No longer under development.
+              industries. toEverywhere&apos;s goal was to create a system that
+              showed all the places you could go and all the cars passing by.
             </p>
             <br />
           </div>
@@ -216,13 +209,12 @@ export default function Home() {
             <h4>Rdvouz 2014 - 2015</h4>
             <br />
             <p>
-              Designed and developed the ridesharing website Rdvouz using
-              Nodejs, Nginx, MongoDB, Redis, PostgreSQL, PostGIS, Google Maps
-              API, Jasmine Unit Tests, and Angular.js to create a completely
-              modern and smart ridematching service. Experience with agile
-              development and getting a product initial users quickly. Accept
-              into 2015 Carma Axlr8r with seed funding with this project to help
-              jumpstart carpooling.{" "}
+              Designed and developed the ridesharing website Rdvouz to create a
+              modern and smart ridematching service that matched users with
+              drivers passing along their routes. Experience with agile
+              development and getting product to initial users quickly. Accepted
+              into 2015 Carma Axlr8r Batch with seed funding and featured in The
+              Atlantic&apos;s City Lab.
             </p>
             <br />
           </div>
@@ -236,10 +228,9 @@ export default function Home() {
             <h4>Wavespot CRM 2013-2014</h4>
             <br />
             <p>
-              Designed and developed the front end of a CRM system for a social
-              networking company called Wavespot, using Jquery, Bootstrap, SASS,
-              and Google Charts API. Also designed and developed their consumer
-              facing site using the Wordpress CMS
+              Designed and developed the front end of a CRM system for WiFi
+              based social networking. Also designed and developed their
+              consumer facing site using the Wordpress CMS.
             </p>
             <br />
             <Link target="_blank" href="http://www.wavespot.net/">
