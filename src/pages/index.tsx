@@ -98,7 +98,7 @@ export default function Home() {
             <h4> Hurry, Inc 2022</h4>
             <hr />
             <p>
-              Consulted on the creation of Hurry&apos; minimum viable product
+              Consulted on the creation of Hurry&apos;s minimum viable product
               and built out both the initial delivery portal via React.js and
               the bare-bones backend to support company endeavors within months.
               Further architected and built out scalable software via tools on
